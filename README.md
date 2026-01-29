@@ -1,5 +1,11 @@
 # 📊 Product & Supply Chain Analysis Dashboard (Looker Studio)
 
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/Nagendra7290/Product-Supply-Chain-Analysis-Dashboard-Looker-Studio-/main/Screenshot%202026-01-29%20230217.png"
+    alt="Product & Supply Chain Analysis Dashboard"
+    width="900" />
+</p>
 ## 📌 Project Overview
 This project features an **interactive Product & Supply Chain Analysis Dashboard** developed using **Google Looker Studio**.  
 The dashboard provides end-to-end insights into **product performance, logistics efficiency, regional demand, supplier contribution, transportation modes, and customer demographics**.
