@@ -154,8 +154,7 @@ This project demonstrates skills in:
 ---
 
 ## 📷 Dashboard Preview
-(Add dashboard screenshot here)
-
+Dashboard Link -  https://lookerstudio.google.com/reporting/7e287b19-48b0-4d40-aa96-38a566eba2f7/page/Na7iF
 ---
 
 ## 🙌 Author
